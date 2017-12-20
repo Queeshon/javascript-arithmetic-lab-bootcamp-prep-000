@@ -1,3 +1,3 @@
-function add() {
-  return "1310"
+function add(a, b) {
+  a + b
 }
